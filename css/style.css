@@ -185,3 +185,6 @@ ul.noticias li p a {
 .contato input.botao {
   width: auto;
 }
+h1 {
+  color: rgba(247, 230, 4, 0.741);
+}
